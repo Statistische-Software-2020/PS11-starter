@@ -10,7 +10,7 @@ output:
 # Resources
 
 1) Accept the invitation to the assignment of this problem set:
-LINK
+https://classroom.github.com/a/G2LqHW4E
 
 # Application
 
@@ -64,10 +64,10 @@ At later points in your study, you might come back here for a different purpose.
 a) Get the data set we want to work with from `OpenML`: 
 https://www.openml.org/d/41021
 
-Read the data description (in fact the data is very interesting).
+Read the data description (in fact, the data is very interesting).
 Download it as `.csv` and load it into `R`.
 Store the data in your repository and make sure that using your code we can replicate your results.
-(In fact this is very important: In the Take-home exam we also expect this from you and if this does not work you will score 0 on the problem.)
+(In fact, this is very important: In the Take-home exam we also expect this from you and if this does not work you will score 0 on the problem.)
 
 b) The data is messy.
 Some types are not correct (e.g. character instead of numeric, no factors).
@@ -77,6 +77,7 @@ Hint: For some columns like `Year` you could use both, factors or numerics.
 c) There is missing data in the data set.
 Use the `dplyr` package to fill all the missing values with the mean of the respective column.
 For which columns may this be problematic?
+
 
 \pagebreak
 
